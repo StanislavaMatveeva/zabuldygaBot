@@ -1,7 +1,6 @@
 import telebot
 from telebot.types import MessageAutoDeleteTimerChanged, StickerSet
 import BotClass
-import BotKeys
 import json
 
 
